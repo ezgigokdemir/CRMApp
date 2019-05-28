@@ -1,0 +1,6 @@
+C:\Users\Section2\Desktop\Repo\MyCrm\MyCrm.Model\bin\Debug\MyCrm.Model.dll
+C:\Users\Section2\Desktop\Repo\MyCrm\MyCrm.Model\bin\Debug\MyCrm.Model.pdb
+C:\Users\Section2\Desktop\Repo\MyCrm\MyCrm.Model\obj\Debug\MyCrm.Model.csprojAssemblyReference.cache
+C:\Users\Section2\Desktop\Repo\MyCrm\MyCrm.Model\obj\Debug\MyCrm.Model.csproj.CoreCompileInputs.cache
+C:\Users\Section2\Desktop\Repo\MyCrm\MyCrm.Model\obj\Debug\MyCrm.Model.dll
+C:\Users\Section2\Desktop\Repo\MyCrm\MyCrm.Model\obj\Debug\MyCrm.Model.pdb

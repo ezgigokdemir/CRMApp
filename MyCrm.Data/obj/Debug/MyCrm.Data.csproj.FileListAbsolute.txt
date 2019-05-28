@@ -1,0 +1,17 @@
+C:\Users\Section2\Desktop\Repo\MyCrm\MyCrm.Data\bin\Debug\MyCrm.Data.dll.config
+C:\Users\Section2\Desktop\Repo\MyCrm\MyCrm.Data\bin\Debug\MyCrm.Data.dll
+C:\Users\Section2\Desktop\Repo\MyCrm\MyCrm.Data\bin\Debug\MyCrm.Data.pdb
+C:\Users\Section2\Desktop\Repo\MyCrm\MyCrm.Data\bin\Debug\EntityFramework.dll
+C:\Users\Section2\Desktop\Repo\MyCrm\MyCrm.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Section2\Desktop\Repo\MyCrm\MyCrm.Data\bin\Debug\MyCrm.Model.dll
+C:\Users\Section2\Desktop\Repo\MyCrm\MyCrm.Data\bin\Debug\MyCrm.Model.pdb
+C:\Users\Section2\Desktop\Repo\MyCrm\MyCrm.Data\bin\Debug\EntityFramework.xml
+C:\Users\Section2\Desktop\Repo\MyCrm\MyCrm.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Section2\Desktop\Repo\MyCrm\MyCrm.Data\obj\Debug\MyCrm.Data.csprojAssemblyReference.cache
+C:\Users\Section2\Desktop\Repo\MyCrm\MyCrm.Data\obj\Debug\MyCrm.Data.csproj.CoreCompileInputs.cache
+C:\Users\Section2\Desktop\Repo\MyCrm\MyCrm.Data\obj\Debug\MyCrm.Data.csproj.CopyComplete
+C:\Users\Section2\Desktop\Repo\MyCrm\MyCrm.Data\obj\Debug\MyCrm.Data.dll
+C:\Users\Section2\Desktop\Repo\MyCrm\MyCrm.Data\obj\Debug\MyCrm.Data.pdb
+C:\Users\Section2\Desktop\Repo\MyCrm\MyCrm.Data\obj\Debug\MyCrm.Data.Migrations.InitialCreate.resources
+C:\Users\Section2\Desktop\Repo\MyCrm\MyCrm.Data\obj\Debug\MyCrm.Data.csproj.GenerateResource.cache
+C:\Users\Section2\Desktop\Repo\MyCrm\MyCrm.Data\obj\Debug\MyCrm.Data.Migrations.SecondCreate.resources
